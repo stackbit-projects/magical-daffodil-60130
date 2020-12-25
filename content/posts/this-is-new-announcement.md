@@ -1,7 +1,6 @@
 +++
 content_img_path = ""
 date = 2001-05-09T18:30:00Z
-draft = true
 excerpt = ""
 layout = "post"
 subtitle = "this is regarnign new syllaybus "
