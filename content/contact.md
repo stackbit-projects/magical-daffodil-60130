@@ -1,5 +1,5 @@
 ---
-title: Get in Touch
+title: hsdfgsdfgasdf
 img_path: images/contact.jpg
 form_id: contactForm
 form_action: "/contact-success"
@@ -50,8 +50,8 @@ form_fields:
   is_required: false
 submit_label: Send Message
 layout: contact
-subtitle: ''
-excerpt: ''
+subtitle: sfdasdfafd
+excerpt: fsddfsafdsdfs
 
 ---
 Fill the form below to get in touch with me.
